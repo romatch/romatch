@@ -32,7 +32,7 @@ Balancing my role in ensuring the smooth operation of critical systems and my en
 
 Here are some personal and learning projects I've been working on:
 
-- [Image processing service](https://github.com/romatch/ImageProcessingService): you develop an image processing service. Clients send images to a Telegram chatbot, and choose a filter to apply
+- [Image processing service](https://github.com/romatch/ImageProcessingService): develop an image processing service. Clients send images to a Telegram chatbot, and choose a filter to apply
 
 ## 🤝 Let's Connect
 
