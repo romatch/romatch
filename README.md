@@ -40,7 +40,7 @@ I'm passionate about integrating DevOps into the world of system administration 
 
 - GitHub: https://github.com/romatch                          
 
-- LinkedIn: https://www.linkedin.com/in/roman-tchouprina-314861246  
+- LinkedIn: https://www.linkedin.com/in/roman-tchouprina 
 
 Let's collaborate and drive innovation in the realm of technology and transportation!
 
